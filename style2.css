@@ -1,7 +1,7 @@
 .sky{
     height: 600px;
     width: 100%;
-    background-image: url(./sky1.jpg);
+    background-image: url(https://github.com/Madhumitaholi/CSS-HANDSON-5/blob/main/sky1.jpg?raw=true);
     background-size: cover;
     z-index: -1;
 }
@@ -28,7 +28,7 @@
 }
 
 .sun{
-    background-image: url(./sun.jfif);
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.BADzPOo7NDTLjXaxsRAFKAHaE7&pid=Api&P=0);
     position: absolute;
     top: 10%;
     left: 100%;
@@ -50,7 +50,7 @@
 
 
 .car {
-    background-image: url(./car.png);
+    background-image: url(https://raw.githubusercontent.com/Madhumitaholi/CSS-HANDSON-5/main/car.png);
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
@@ -80,7 +80,7 @@
 }
 
 .front {
-    background-image: url(./wheel.png);
+    background-image: url(https://github.com/Madhumitaholi/CSS-HANDSON-5/blob/main/wheel.png?raw=true);
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
@@ -98,7 +98,7 @@
 }
 
 .back {
-    background-image: url(./wheel.png);
+    background-image: url(https://github.com/Madhumitaholi/CSS-HANDSON-5/blob/main/wheel.png?raw=true);
     background-repeat: no-repeat;
     background-size: cover;
     height: 55px;
@@ -118,7 +118,7 @@
 
 .city
 {
-    background-image: url(./city.png);
+    background-image: url(https://github.com/Madhumitaholi/CSS-HANDSON-5/blob/main/city.png?raw=true);
     display: block;
     position: absolute;
     height: 200px;
@@ -134,7 +134,7 @@
 }
 
 .road{
-    background-image: url(./road.jpg);
+    background-image: url(https://github.com/Madhumitaholi/CSS-HANDSON-5/blob/main/road.jpg?raw=true);
     background-repeat: no-repeat;
     position: absolute;
     height: 200px;
